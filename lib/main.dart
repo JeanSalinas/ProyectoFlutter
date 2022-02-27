@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Movie.dart';
+//import 'Login.dart';
 
 void main() {
   runApp(MyApp());
@@ -81,6 +81,7 @@ class MyApp extends StatelessWidget {
     );
     return MaterialApp(
       title: 'Biografía Deportiva',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(scaffoldBackgroundColor: Colors.grey[150]),
       home: Scaffold(
         appBar: AppBar(

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "56410686595",
-    "project_id": "linea2-8f7e7",
-    "storage_bucket": "linea2-8f7e7.appspot.com"
+    "project_number": "1089243972212",
+    "project_id": "linea2-36919",
+    "storage_bucket": "linea2-36919.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:56410686595:android:a0dd75093f58f11f0f87b6",
+        "mobilesdk_app_id": "1:1089243972212:android:e118dec5cec2dddeed4721",
         "android_client_info": {
-          "package_name": "Linea.Profundizacion_2"
+          "package_name": "Datos.Login"
         }
       },
       "oauth_client": [
         {
-          "client_id": "56410686595-8sekkkqm355bcbq65qg6na9s4po2bdht.apps.googleusercontent.com",
+          "client_id": "1089243972212-t9tdnao2rds80n3fm5dnbv97qhpsqqhk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC2L6dqCiD5hhHwvm1hnJ4Bgr3WBjp2pAw"
+          "current_key": "AIzaSyA1s6XB0mnCaYy-uGmRpsCJLu7g8yMr7ZI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "56410686595-8sekkkqm355bcbq65qg6na9s4po2bdht.apps.googleusercontent.com",
+              "client_id": "1089243972212-t9tdnao2rds80n3fm5dnbv97qhpsqqhk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
